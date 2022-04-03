@@ -1,0 +1,12 @@
+C:\Users\Makeroot\Downloads\DentalCloud-master (1)\DentalCloud-master\DentalApps.Models\bin\Debug\net6.0\DentalApps.Models.deps.json
+C:\Users\Makeroot\Downloads\DentalCloud-master (1)\DentalCloud-master\DentalApps.Models\bin\Debug\net6.0\DentalApps.Models.dll
+C:\Users\Makeroot\Downloads\DentalCloud-master (1)\DentalCloud-master\DentalApps.Models\bin\Debug\net6.0\DentalApps.Models.pdb
+C:\Users\Makeroot\Downloads\DentalCloud-master (1)\DentalCloud-master\DentalApps.Models\obj\Debug\net6.0\DentalApps.Models.csproj.AssemblyReference.cache
+C:\Users\Makeroot\Downloads\DentalCloud-master (1)\DentalCloud-master\DentalApps.Models\obj\Debug\net6.0\DentalApps.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makeroot\Downloads\DentalCloud-master (1)\DentalCloud-master\DentalApps.Models\obj\Debug\net6.0\DentalApps.Models.AssemblyInfoInputs.cache
+C:\Users\Makeroot\Downloads\DentalCloud-master (1)\DentalCloud-master\DentalApps.Models\obj\Debug\net6.0\DentalApps.Models.AssemblyInfo.cs
+C:\Users\Makeroot\Downloads\DentalCloud-master (1)\DentalCloud-master\DentalApps.Models\obj\Debug\net6.0\DentalApps.Models.csproj.CoreCompileInputs.cache
+C:\Users\Makeroot\Downloads\DentalCloud-master (1)\DentalCloud-master\DentalApps.Models\obj\Debug\net6.0\DentalApps.Models.dll
+C:\Users\Makeroot\Downloads\DentalCloud-master (1)\DentalCloud-master\DentalApps.Models\obj\Debug\net6.0\refint\DentalApps.Models.dll
+C:\Users\Makeroot\Downloads\DentalCloud-master (1)\DentalCloud-master\DentalApps.Models\obj\Debug\net6.0\DentalApps.Models.pdb
+C:\Users\Makeroot\Downloads\DentalCloud-master (1)\DentalCloud-master\DentalApps.Models\obj\Debug\net6.0\ref\DentalApps.Models.dll
